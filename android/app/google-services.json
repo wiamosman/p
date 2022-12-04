@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "415025543133",
+    "project_id": "bejaii-grocery",
+    "storage_bucket": "bejaii-grocery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415025543133:android:31ca2a82770f558da76834",
+        "android_client_info": {
+          "package_name": "com.bejaii.grocery_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415025543133-oru9tsmmo14upogv2hc0qej48jn3o2v2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bejaii.grocery_market",
+            "certificate_hash": "c58e30fbaf2cc232caf4cce890c3092552598277"
+          }
+        },
+        {
+          "client_id": "415025543133-sg16skpdjfj11bar5ha7gdk5v75ulq0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bejaii.grocery_market",
+            "certificate_hash": "dae3dc5185b762a05336d0e80a063574336c1987"
+          }
+        },
+        {
+          "client_id": "415025543133-b5qg4djqr0n9grrbv0q50spfpb2d54n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8YtSt1MMarG2Aext93NBdUifG2Ub0xGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415025543133-b5qg4djqr0n9grrbv0q50spfpb2d54n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
